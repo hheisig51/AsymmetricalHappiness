@@ -12,6 +12,10 @@
 Note: there are some additional files in the various folders in this repo. The organization should be pretty self explanatory.
 
 ## Images
-    
+Isometric view of fully assembled skateboard:
+![Isometric view of fully assembled skateboard](https://github.com/hheisig51/AsymmetricalHappiness/blob/master/Images/Skateboard.png?raw=true)
+
+Isometric view of assembled truck:
+![Isometric view of assembled truck](https://github.com/hheisig51/AsymmetricalHappiness/blob/master/Images/AssembledTruck.png?raw=true)
 
 ## Reflection
