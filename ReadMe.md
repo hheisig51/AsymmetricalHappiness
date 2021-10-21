@@ -14,6 +14,7 @@ Note: there are some additional files in the various folders in this repo. The o
 ## Images/Video
 Overview video of assembly and parts, with commentary:
 
+https://user-images.githubusercontent.com/71345201/138319719-bf1f7287-259e-4515-86dc-d6050ccedbeb.mp4
 
 Isometric view of fully assembled skateboard:
 ![Isometric view of fully assembled skateboard](https://github.com/hheisig51/AsymmetricalHappiness/blob/5b9f750f120803a5f993693c322361e040595fb4/Images/Skateboard.png?raw=true)
