@@ -11,11 +11,16 @@
 
 Note: there are some additional files in the various folders in this repo. The organization should be pretty self explanatory.
 
-## Images
+## Images/Video
+Overview video of assembly and parts, with commentary:
+
+
 Isometric view of fully assembled skateboard:
-![Isometric view of fully assembled skateboard](https://github.com/hheisig51/AsymmetricalHappiness/blob/master/Images/Skateboard.png?raw=true)
+![Isometric view of fully assembled skateboard](https://github.com/hheisig51/AsymmetricalHappiness/blob/5b9f750f120803a5f993693c322361e040595fb4/Images/Skateboard.png?raw=true)
 
 Isometric view of assembled truck:
-![Isometric view of assembled truck](https://github.com/hheisig51/AsymmetricalHappiness/blob/master/Images/AssembledTruck.png?raw=true)
+![Isometric view of assembled truck](https://github.com/hheisig51/AsymmetricalHappiness/blob/5b9f750f120803a5f993693c322361e040595fb4/Images/AssembledTruck.png?raw=true)
+
+There are additional screenshots in the [Images folder](https://github.com/hheisig51/AsymmetricalHappiness/blob/f8387eaa7c6a6da38051f8700d2ac330e7f64e2a/Images)
 
 ## Reflection
