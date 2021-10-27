@@ -2,8 +2,6 @@
 
 ## Description
 
-[🎵 I always feel like, somebody's reading me 🎵](https://www.youtube.com/watch?v=-dtk3VW8MDI&t=45s)
-
 Today we are designing a skateboard, and all it's various parts. The deck is simple to make, just a sketch extruded. The truck (baseplate, hanger, bushing) is more advanced, as there are multiple surfaces and parts you have to work with. But, if you take it slow and simple, making sure nothing remains undefined, it falls into place as not much more than an exercise in CAD. The new, difficult part (for most people) is the split and move face. My advice for that is copying a sketch to both sides of an object can help in making that split (and thus move face) work easier.
 
 ## Links
@@ -12,7 +10,7 @@ Today we are designing a skateboard, and all it's various parts. The deck is sim
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Youtube playlist](https://www.youtube.com/playlist?list=PLWQhE570pqHolLXlZ6UV2fSPk2NbFPnma)                                                                                                 |
 
-Note: there are some additional files in the various folders in this repo. The organization should be pretty self explanatory.
+Note: there are some additional files in the various folders in this repo, available to browse.
 
 ## Images/Video
 
