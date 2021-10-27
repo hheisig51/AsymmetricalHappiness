@@ -6,9 +6,9 @@ Today we are designing a skateboard, and all it's various parts. The deck is sim
 
 ## Links
 
-| [Onshape document](https://cvilleschools.onshape.com/documents/618b592bf73b13d5cd2b1c96/w/7d3536bfab490ef978980adf/e/1ca3d9266cbb04a65fddf9ed?renderMode=0&uiState=6170b4ebee980a13ed3ed748) |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Youtube playlist](https://www.youtube.com/playlist?list=PLWQhE570pqHolLXlZ6UV2fSPk2NbFPnma)                                                                                                 |
+| [Onshape document](https://cvilleschools.onshape.com/documents/618b592bf73b13d5cd2b1c96/w/7d3536bfab490ef978980adf/e/1ca3d9266cbb04a65fddf9ed) |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Youtube playlist](https://www.youtube.com/playlist?list=PLWQhE570pqHolLXlZ6UV2fSPk2NbFPnma)                                                   |
 
 Note: there are some additional files in the various folders in this repo, available to browse.
 
@@ -28,8 +28,16 @@ There are additional screenshots in the [Images folder](https://github.com/hheis
 
 ## Reflection
 
-1. Use the Use tool! It's so helpful for making sure everything stays connected, but in a non-convoluted way. It lets you use anything from a single point, to a whole sketch.
+Advice is numbered by which step of the tutorial they best align with.
 
-2. **No. Blue. Unless. You. Spline.** Like, actually. I've been bluer than Eeyore with my sketches before, but it just ends in the whole 6-week project falling apart because one dimension couldn't scale.
+2.1. Constraints are stronger than dimensions. Even if you wanted to go through the effort of doing all the math, it would break as soon as you need to change one dimension.
+
+2.2. When doing Multi-Part Modeling, using different perspectives is essential. You can adjust the angle a tiny bit, or even switch the whole part to being translucent.
+
+2.4. Replicate is a very useful tool! So useful, in fact, that [my teacher](https://github.com/Helmstk1) says one would be lying to say Replicate isn't helpful. It just keeps away the menial task of making sure every single mate connector is put on right.
+
+2.5. Use the Use tool! It's so helpful for making sure everything stays connected, but in a non-convoluted way. It lets you use anything from a single point, to a whole sketch. It's how I made the very odd shape of the deck.
+
+2.5. **No. Blue. Unless. You. Spline.** Like, actually. I've been bluer than Eeyore with my sketches before, but it just ends in the whole 6-week project falling apart because one dimension couldn't scale.
 
 Frankly, this whole process was never frustrating, it was just an exercise in patience and 'sustainable' CAD. The shorcuts aren't shorcuts if them failing breaks way too much. It's like a [switchback](https://trailandsummit.com/what-is-a-switchback-in-hiking/). Yes, it may be quicker to go up a mountain in a straight line, but it makes it harder to go down, and harder to even go up if you ever have to traverse that path again.
