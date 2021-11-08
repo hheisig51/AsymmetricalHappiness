@@ -14,7 +14,7 @@
 
 Today we are designing a skateboard, and all it's various parts. The deck is simple to make, just a sketch extruded. The truck (baseplate, hanger, bushing) is more advanced, as there are multiple surfaces and parts you have to work with. But, if you take it slow and simple, making sure nothing remains undefined, it falls into place as not much more than an exercise in CAD. The new, difficult part (for most people) is the split and move face. My advice for that is copying a sketch to both sides of an object can help in making that split (and thus move face) work easier.
 
-## 2 Links
+## 2 - Links
 
 | [Onshape document](https://cvilleschools.onshape.com/documents/618b592bf73b13d5cd2b1c96/w/7d3536bfab490ef978980adf/e/1ca3d9266cbb04a65fddf9ed) |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -22,7 +22,7 @@ Today we are designing a skateboard, and all it's various parts. The deck is sim
 
 Note: there are some additional files in the various folders in this repo, available to browse.
 
-## 2 Images/Videos
+## 2 - Images/Videos
 
 Overview video of assembly and parts, with commentary:
 
@@ -36,7 +36,7 @@ Isometric view of assembled truck:
 
 There are additional screenshots in the [Images folder](https://github.com/hheisig51/AsymmetricalHappiness/blob/f8387eaa7c6a6da38051f8700d2ac330e7f64e2a/Images)
 
-## 2 Reflection
+## 2 - Reflection
 
 Advice is numbered by which step of the tutorial they best align with.
 
@@ -54,15 +54,15 @@ Frankly, this whole process was never frustrating, it was just an exercise in pa
 
 ---
 
-## Unit 3 - Power Tools/Brick
+## 3 - Power Tools/Brick
 
-## 3 Description
+## 3. Description
 
-## 3 Links
+## 3. Links
 
-## 3 Images/Videos
+## 3. Images/Videos
 
-## 3 Reflection
+## 3. Reflection
 
 3.1. This point has been highlighted before, but I think it should be re-stated; The value of relations and design intent. Specifically, how they interact with eachother. Obviously, you have to make these relationships between the pieces, so everything can be assembled together. But, it's about the purpose with every step. Frankly, the skateboard designed above didn't have this purpose put into it. Some dimensions were made just to turn a blue line black, not with any actual function in mind. It doesn't need to be have some vast, abstract meaning, but it needs a meaning nonetheless.
 
