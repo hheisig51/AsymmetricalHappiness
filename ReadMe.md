@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [Table of Contents](#TableOfContents)
-- [Skateboard](#Skateboard)
+- [Skateboard](#unit-2---skateboard)
 - [Power Tools/Brick](#Unit_3)
 
 ---
@@ -56,13 +56,13 @@ Frankly, this whole process was never frustrating, it was just an exercise in pa
 
 ## 3 - Power Tools/Brick
 
-## 3. Description
+## 3 - Description
 
-## 3. Links
+## 3 - Links
 
-## 3. Images/Videos
+## 3 - Images/Videos
 
-## 3. Reflection
+## 3 - Reflection
 
 3.1. This point has been highlighted before, but I think it should be re-stated; The value of relations and design intent. Specifically, how they interact with eachother. Obviously, you have to make these relationships between the pieces, so everything can be assembled together. But, it's about the purpose with every step. Frankly, the skateboard designed above didn't have this purpose put into it. Some dimensions were made just to turn a blue line black, not with any actual function in mind. It doesn't need to be have some vast, abstract meaning, but it needs a meaning nonetheless.
 
