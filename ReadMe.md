@@ -26,7 +26,7 @@ Note: there are some additional files in the various folders in this repo, avail
 
 Overview video of assembly and parts, with commentary:
 
-<https://github.com/hheisig51/AsymmetricalHappiness/blob/03038cc7412edfe01e44943e49e4b5fdb2e77ba5/Videos/BonusShrey.mp4>
+<https://user-images.githubusercontent.com/71345201/138319719-bf1f7287-259e-4515-86dc-d6050ccedbeb.mp4>
 
 Isometric view of fully assembled skateboard:
 ![Isometric view of fully assembled skateboard](https://github.com/hheisig51/AsymmetricalHappiness/blob/5b9f750f120803a5f993693c322361e040595fb4/Images/Skateboard.png?raw=true)
@@ -73,5 +73,3 @@ Frankly, this whole process was never frustrating, it was just an exercise in pa
 3.4.
 
 3.5.
-
-<https://user-images.githubusercontent.com/71345201/138319719-bf1f7287-259e-4515-86dc-d6050ccedbeb.mp4>
