@@ -1,5 +1,15 @@
 # Asymmetrical Happiness
 
+## Table of Contents
+
+- [Table of Contents](#TableOfContents)
+- [Skateboard](#Skateboard)
+- [CircuitPython_Servo](#CircuitPython_Servo)
+
+---
+
+## Skateboard
+
 ## Description
 
 Today we are designing a skateboard, and all it's various parts. The deck is simple to make, just a sketch extruded. The truck (baseplate, hanger, bushing) is more advanced, as there are multiple surfaces and parts you have to work with. But, if you take it slow and simple, making sure nothing remains undefined, it falls into place as not much more than an exercise in CAD. The new, difficult part (for most people) is the split and move face. My advice for that is copying a sketch to both sides of an object can help in making that split (and thus move face) work easier.
@@ -41,3 +51,14 @@ Advice is numbered by which step of the tutorial they best align with.
 2.5. **No. Blue. Unless. You. Spline.** Like, actually. I've been bluer than Eeyore with my sketches before, but it just ends in the whole 6-week project falling apart because one dimension couldn't scale.
 
 Frankly, this whole process was never frustrating, it was just an exercise in patience and 'sustainable' CAD. The shorcuts aren't shorcuts if them failing breaks way too much. It's like a [switchback](https://trailandsummit.com/what-is-a-switchback-in-hiking/). Yes, it may be quicker to go up a mountain in a straight line, but it makes it harder to go down, and harder to even go up if you ever have to traverse that path again.
+
+---
+
+## Brick
+## Description
+
+## Links
+
+## Images/Video
+
+## Reflection
